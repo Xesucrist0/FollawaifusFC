@@ -26,7 +26,9 @@ $(document).ready(function(){
     $('.spoiler').prev().replaceWith('<button class="boton_spoiler" class="smallfont" style="font-weight:bold; margin-left:8px; margin-bottom:2px;">Mostrar spoiler</button>');
 
     addGlobalStyle('.spoiler { color: black; font-weight: 400; background-color: inherit; width: auto; height: auto; max-height: 99999px; text-align: left; border-radius: 0px; cursor: inherit; overflow: auto; margin: 5px 2px 2px; padding: 10px; border: 1px double; }');
-
+    
+    $('.spoiler').click();
+    
     $('.spoiler').css('display', 'none');
     $('.spoiler').text(function(){
         $(this).text($(this).text().replace(/\[img\]/igm, "<img src=\""));
