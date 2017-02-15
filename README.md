@@ -28,5 +28,5 @@ Spoiler FC necesita Tampermonkey ([Chrome](https://chrome.google.com/webstore/de
 
 Una vez instalada la aplicación agregamos nuestro script disponible en [greasyfork](https://greasyfork.org/es/scripts/27393-spoiler-fc) haciendo clic en "Instalar este script"
 
-Desarrollado por
+### Desarrollado por
 ![FollaWaifus](http://i.imgur.com/AfiENdz.gif)
