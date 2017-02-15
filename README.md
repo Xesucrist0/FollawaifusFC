@@ -1,9 +1,9 @@
 # Spoiler FC
 
 Spoiler FC es un script de cliente para mejorar el uso de las etiquetas [spoiler] dentro de Forocoches.
- - [Lista de versiones](#Lista-de-versiones)
- - [Por implementar](#Por-implementar)
- - [Instalación](##Instalación)
+ - [Lista de versiones](#lista-de-versiones)
+ - [Por implementar](#por-implementar)
+ - [Instalación](#Instalación)
 
 ## Lista de versiones
 ### v1.0
